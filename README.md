@@ -1,36 +1,32 @@
 # CampusConnect – Full Stack College Community Platform
 
-CampusConnect is a full-stack web app designed using AI-powered website builder **Lovable**, to streamline campus communication, placement updates, events, and academic content sharing.
+CampusConnect is a full-stack web app built to streamline student access to event updates, placement resources, and academic content in one centralized platform.
 
-## 🔗 Live Preview
-[🌐 View Website on Lovable](https://lovable.dev/projects/YOUR_PROJECT_ID)
+## 🎥 Project Demo
+▶️ [Watch on YouTube](https://youtu.be/ErXDFqshuOA?si=XJu0T-eGduh0MPBr)
+
+## 📄 Project Report
+📄 [View Project Report on Google Drive](https://drive.google.com/file/d/1VUASt6ZrbPYsqdF_8LPYLR91ImIsxFAr/view?usp=drivesdk)
 
 ## 📂 Tech Stack
-- **Frontend**: Vite + React + TypeScript
+- **Frontend**: React + Vite + TypeScript
 - **Styling**: Tailwind CSS
-- **Builder**: Lovable.dev (AI-powered Web UI Generator)
+- **Editor**: Visual Studio Code
 - **Version Control**: Git + GitHub
-- *(Backend planned using Node.js, Express & MongoDB)*
 
-## 🎯 Features
+## ✨ Features
 - Clean and responsive design
 - Event listing and announcements
 - Simple and student-friendly layout
 - GitHub-synced codebase
 - Expandable for full-stack development
 
-## 🎥 Project Demo
-[▶️ Watch on YouTube](https://youtube.com/YOUR_VIDEO_LINK)
-
-## 📁 Repository
-This repository was auto-generated from Lovable and synced using GitHub Integration.
-
-## 🧠 Future Scope
-- Admin/faculty login system
-- Notes and document uploads
-- Student dashboard with notifications
-- Backend integration using REST APIs
-- Chat or event-bot using AI
+## 🚀 Future Scope
+- Admin/faculty login system  
+- Notes and document uploads  
+- Student dashboard with notifications  
+- Backend integration using REST API  
+- Chat or event-bot using AI  
 
 ## 👨‍💻 Author
 **Yesu Karthik Vasadi**  
